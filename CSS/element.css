@@ -1,0 +1,29 @@
+body{
+	background-image: url(https://www.humanprogresscenter.com/wp-content/uploads/2016/05/fond-gris.jpg);
+}
+
+.navbar-brand img{
+	 max-height: 80px;
+}
+.nav-item{
+	font-size: 25px;
+}
+.menu-nav{
+	display: flex;
+	justify-content: center;
+	flex-direction: row-reverse;
+	flex-wrap: wrap;
+	margin-right: 3.5%;
+	margin-top: 3%;
+	word-spacing:5%;
+
+}
+.menu-niv{
+	display: flex;
+	justify-content: center;
+	flex-direction: row-reverse;
+	flex-wrap: wrap;
+	margin-right: 3.5%;
+	margin-top:7%;
+
+}
